@@ -24,12 +24,12 @@ with header_col2:
 # =====================================
 # LOAD DATA + MODELS
 # =====================================
-df = pd.read_csv("model/src data/shl_feature_engineered.csv")
+df = pd.read_csv("model/shl_feature_engineered.csv")
 
-with open("model/tfidf pkl/tfidf_vectorizer.pkl", "rb") as f:
+with open("model/tfidf_vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
-with open("model/tfidf pkl/tfidf_matrix.pkl", "rb") as f:
+with open("model/tfidf_matrix.pkl", "rb") as f:
     tfidf_matrix = pickle.load(f)
 
 
@@ -156,3 +156,9 @@ if st.button("Recommend Assessments"):
 
         # py -m streamlit run app/app.py
 
+# git init
+# git init
+# git commit -m "SHL Assessment Recommendation Engine"
+# git branch -M main
+# git remote add origin <github-repo>
+# git push -u origin main
