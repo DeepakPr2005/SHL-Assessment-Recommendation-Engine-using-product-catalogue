@@ -1,0 +1,92 @@
+Assessment,Role,Skills,Difficulty,Duration,Category,Level,Test_Type,Remote_Testing,Adaptive,Industry
+Verify Interactive,Graduate,Problem Solving Reasoning Cognitive,Medium,36,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Graduate Ability Test,Graduate,Aptitude Communication Reasoning,Easy,30,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Graduate Numerical Test,Graduate,Numerical Analysis Quantitative,Medium,35,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Graduate Logical Test,Graduate,Logical Thinking Problem Solving,Medium,30,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Graduate Communication Test,Graduate,Communication Verbal English,Easy,25,Behavioral,Entry,Knowledge Test,Yes,No,General
+Python Coding Assessment,Software Engineer,Python Coding Algorithms Data Structures,Hard,60,Technical,Mid,Coding Test,Yes,No,IT
+Java Coding Assessment,Software Engineer,Java OOP Programming Spring,Medium,60,Technical,Mid,Coding Test,Yes,No,IT
+C++ Coding Test,Software Engineer,C++ Algorithms Problem Solving,Hard,65,Technical,Mid,Coding Test,Yes,No,IT
+Frontend Developer Test,Software Engineer,HTML CSS JavaScript React,Medium,55,Technical,Mid,Coding Test,Yes,No,IT
+Backend Developer Test,Software Engineer,Python APIs Databases Backend,Hard,75,Technical,Mid,Coding Test,Yes,No,IT
+Full Stack Assessment,Software Engineer,Frontend Backend Database API,Hard,90,Technical,Mid,Coding Test,Yes,No,IT
+DevOps Assessment,DevOps Engineer,CI CD Docker Kubernetes Automation,Hard,70,Technical,Mid,Knowledge Test,Yes,No,IT
+Cloud Engineering Test,Cloud Engineer,AWS Azure Cloud Infrastructure,Hard,70,Technical,Mid,Knowledge Test,Yes,No,IT
+System Design Test,Software Engineer,System Design Architecture Scalability,Hard,80,Technical,Senior,Simulation,Yes,No,IT
+Software Debugging Test,Software Engineer,Debugging Troubleshooting Coding,Medium,50,Technical,Mid,Coding Test,Yes,No,IT
+SQL Assessment,Data Analyst,SQL Database Query Data Analysis,Easy,40,Technical,Entry,Knowledge Test,Yes,No,IT
+Excel Analytics Test,Data Analyst,Excel Analytics Reporting Data,Easy,30,Technical,Entry,Knowledge Test,Yes,No,IT
+Data Analysis Test,Data Analyst,Statistics Analytics Visualization,Medium,45,Technical,Mid,Knowledge Test,Yes,No,IT
+Numerical Reasoning Test,Data Analyst,Numbers Analytics Quantitative Reasoning,Medium,35,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Data Visualization Test,Data Analyst,PowerBI Tableau Visualization,Medium,45,Technical,Mid,Knowledge Test,Yes,No,IT
+Business Intelligence Test,Data Analyst,BI Reporting Dashboards SQL,Medium,50,Technical,Mid,Knowledge Test,Yes,No,IT
+Data Cleaning Assessment,Data Analyst,Data Cleaning Pandas Python,Medium,40,Technical,Mid,Coding Test,Yes,No,IT
+Statistics Assessment,Data Scientist,Statistics Probability Mathematics,Hard,60,Technical,Mid,Knowledge Test,Yes,No,IT
+Machine Learning Test,Data Scientist,ML Algorithms Regression Classification,Hard,80,Technical,Senior,Coding Test,Yes,No,IT
+Deep Learning Assessment,Data Scientist,Neural Networks Deep Learning,Hard,90,Technical,Senior,Coding Test,Yes,No,IT
+NLP Assessment,Data Scientist,NLP Text Processing Language Models,Hard,85,Technical,Senior,Coding Test,Yes,No,IT
+AI Engineering Test,Data Scientist,Python ML AI Deployment,Hard,80,Technical,Senior,Simulation,Yes,No,IT
+Data Science Assessment,Data Scientist,Python ML Statistics Analytics,Hard,75,Technical,Mid,Coding Test,Yes,No,IT
+Model Evaluation Test,Data Scientist,Model Validation Metrics Evaluation,Medium,45,Technical,Mid,Knowledge Test,Yes,No,IT
+Feature Engineering Test,Data Scientist,Feature Engineering Data Processing,Medium,50,Technical,Mid,Coding Test,Yes,No,IT
+Cybersecurity Assessment,Security Engineer,Security Networking Ethical Hacking,Hard,65,Technical,Mid,Knowledge Test,Yes,No,IT
+Network Security Test,Security Engineer,Network Security Firewall Risk,Medium,50,Technical,Mid,Knowledge Test,Yes,No,IT
+Penetration Testing Assessment,Security Engineer,Pen Testing Vulnerability Security,Hard,75,Technical,Senior,Simulation,Yes,No,IT
+Ethical Hacking Test,Security Engineer,Ethical Hacking Cybersecurity Tools,Hard,70,Technical,Mid,Knowledge Test,Yes,No,IT
+Security Analysis Test,Security Engineer,Threat Analysis Risk Management,Medium,55,Technical,Mid,Knowledge Test,Yes,No,IT
+Leadership Simulation,Manager,Leadership Decision Making Communication,Medium,45,Behavioral,Senior,Simulation,Yes,Yes,Management
+Management Judgment Test,Manager,Leadership Strategy Business Decision,Hard,50,Behavioral,Senior,Simulation,Yes,Yes,Management
+Project Management Test,Project Manager,Planning Risk Agile Scrum,Medium,60,Management,Mid,Knowledge Test,Yes,No,Management
+Agile Scrum Assessment,Project Manager,Agile Scrum Collaboration,Medium,40,Management,Mid,Knowledge Test,Yes,No,Management
+Team Management Test,Manager,Team Leadership Motivation,Medium,45,Behavioral,Senior,Simulation,Yes,Yes,Management
+Strategic Thinking Test,Manager,Strategy Planning Vision Leadership,Hard,60,Behavioral,Senior,Simulation,Yes,Yes,Management
+Executive Leadership Assessment,Executive,Strategic Leadership Vision,Hard,75,Leadership,Leadership,Simulation,Yes,Yes,Management
+Communication Skills Test,HR,Communication English Verbal Skills,Easy,30,Behavioral,Entry,Knowledge Test,Yes,No,HR
+HR Interview Simulation,HR,Interview Evaluation Communication,Medium,35,Behavioral,Mid,Simulation,Yes,Yes,HR
+Talent Acquisition Test,HR,Recruitment Hiring Decision Making,Medium,40,Behavioral,Mid,Knowledge Test,Yes,No,HR
+Employee Engagement Test,HR,People Management Motivation HR,Medium,45,Behavioral,Mid,Simulation,Yes,Yes,HR
+Customer Service Simulation,Support Executive,Customer Handling Communication Problem Solving,Medium,35,Behavioral,Entry,Simulation,Yes,Yes,Support
+Technical Support Test,Support Engineer,Troubleshooting Networking Systems,Medium,45,Technical,Mid,Knowledge Test,Yes,No,IT
+Helpdesk Support Assessment,Support Engineer,Support Ticket Resolution IT,Easy,30,Technical,Entry,Knowledge Test,Yes,No,IT
+Customer Interaction Test,Support Executive,Communication Customer Experience,Easy,25,Behavioral,Entry,Simulation,Yes,Yes,Support
+Sales Assessment,Sales Executive,Sales Negotiation Communication Persuasion,Medium,40,Behavioral,Mid,Simulation,Yes,Yes,Sales
+Retail Sales Simulation,Sales Executive,Customer Sales Interaction,Medium,35,Behavioral,Entry,Simulation,Yes,Yes,Sales
+B2B Sales Assessment,Sales Executive,Business Sales Strategy Negotiation,Hard,55,Behavioral,Senior,Simulation,Yes,Yes,Sales
+Marketing Analytics Test,Marketing Analyst,Marketing Analytics Data Campaigns,Medium,45,Technical,Mid,Knowledge Test,Yes,No,Marketing
+Digital Marketing Assessment,Marketing Analyst,SEO SEM Analytics Marketing,Medium,50,Technical,Mid,Knowledge Test,Yes,No,Marketing
+Content Marketing Test,Marketing Analyst,Content Strategy Creativity Writing,Easy,30,Behavioral,Entry,Knowledge Test,Yes,No,Marketing
+Financial Reasoning Test,Finance Analyst,Finance Numbers Accounting Analysis,Medium,40,Cognitive,Mid,Cognitive Test,Yes,Yes,Finance
+Investment Analysis Test,Finance Analyst,Finance Investment Risk Analysis,Hard,60,Technical,Senior,Knowledge Test,Yes,No,Finance
+Accounting Skills Test,Finance Analyst,Accounting Financial Reporting,Medium,45,Technical,Mid,Knowledge Test,Yes,No,Finance
+Risk Management Assessment,Finance Analyst,Risk Compliance Finance Analysis,Medium,50,Technical,Mid,Knowledge Test,Yes,No,Finance
+Personality Questionnaire,Any,Behavior Personality Workplace Traits,Easy,25,Personality,All,Questionnaire,Yes,Yes,General
+Situational Judgment Test,Any,Decision Making Workplace Scenarios,Medium,35,Behavioral,All,Simulation,Yes,Yes,General
+Logical Reasoning Test,Any,Aptitude Problem Solving Logical Thinking,Medium,40,Cognitive,All,Cognitive Test,Yes,Yes,General
+Inductive Reasoning Test,Any,Pattern Recognition Analytical Thinking,Medium,30,Cognitive,All,Cognitive Test,Yes,Yes,General
+Deductive Reasoning Test,Any,Logical Decision Making Analysis,Medium,30,Cognitive,All,Cognitive Test,Yes,Yes,General
+Critical Thinking Test,Any,Critical Thinking Analysis Evaluation,Medium,35,Cognitive,All,Cognitive Test,Yes,Yes,General
+Problem Solving Simulation,Any,Problem Solving Decision Analysis,Medium,40,Behavioral,All,Simulation,Yes,Yes,General
+Innovation Creativity Test,Any,Creative Thinking Innovation Problem Solving,Easy,30,Behavioral,All,Knowledge Test,Yes,No,General
+Digital Literacy Test,Any,Computer Basics Internet Tools Software,Easy,20,Technical,Entry,Knowledge Test,Yes,No,General
+Remote Work Simulation,Any,Time Management Communication Self Discipline,Easy,25,Behavioral,All,Simulation,Yes,Yes,General
+Presentation Skills Assessment,Manager,Presentation Communication Leadership,Medium,35,Behavioral,Senior,Simulation,Yes,Yes,Management
+English Comprehension Test,Any,Reading Writing Grammar Understanding,Easy,25,Cognitive,All,Cognitive Test,Yes,Yes,General
+Workplace Ethics Test,Any,Ethics Integrity Professional Behavior,Easy,20,Personality,All,Questionnaire,Yes,Yes,General
+Collaboration Assessment,Any,Teamwork Collaboration Communication,Easy,25,Behavioral,All,Simulation,Yes,Yes,General
+Adaptability Test,Any,Adaptability Change Management Learning,Easy,20,Behavioral,All,Knowledge Test,Yes,No,General
+Time Management Assessment,Any,Time Planning Productivity Organization,Easy,25,Behavioral,All,Knowledge Test,Yes,No,General
+Decision Making Test,Any,Decision Analysis Critical Thinking,Medium,35,Cognitive,All,Cognitive Test,Yes,Yes,General
+Analytical Reasoning Test,Data Analyst,Analytics Logic Data Interpretation,Medium,40,Cognitive,Entry,Cognitive Test,Yes,Yes,IT
+Business Analyst Test,Business Analyst,Requirement Analysis Stakeholder SQL,Medium,50,Technical,Mid,Knowledge Test,Yes,No,IT
+Process Improvement Assessment,Business Analyst,Process Optimization Analysis,Medium,45,Management,Mid,Knowledge Test,Yes,No,Business
+Product Management Test,Product Manager,Product Strategy User Analysis,Hard,70,Management,Senior,Simulation,Yes,Yes,Business
+UX Thinking Assessment,Product Manager,UX Design User Research,Medium,50,Technical,Mid,Knowledge Test,Yes,No,IT
+Innovation Strategy Test,Executive,Innovation Strategy Leadership Vision,Hard,75,Leadership,Leadership,Simulation,Yes,Yes,Management
+Organizational Leadership Test,Executive,Leadership Organizational Behavior,Hard,70,Leadership,Leadership,Simulation,Yes,Yes,Management
+Global Leadership Assessment,Executive,Global Strategy Decision Leadership,Hard,80,Leadership,Leadership,Simulation,Yes,Yes,Management
+Future Skills Assessment,Graduate,Learning Agility Digital Skills,Easy,30,Behavioral,Entry,Knowledge Test,Yes,No,General
+Career Readiness Test,Graduate,Professional Skills Workplace Readiness,Easy,25,Behavioral,Entry,Knowledge Test,Yes,No,General
+Entry Level Aptitude Test,Graduate,Aptitude Basic Reasoning Communication,Easy,30,Cognitive,Entry,Cognitive Test,Yes,Yes,General
+Young Professional Assessment,Professional,Professional Skills Communication Analysis,Medium,45,Behavioral,Mid,Simulation,Yes,Yes,General
+Professional Hiring Simulation,Professional,Domain Knowledge Problem Solving,Medium,50,Behavioral,Mid,Simulation,Yes,Yes,General
+Advanced Professional Assessment,Professional,Advanced Domain Expertise Analysis,Hard,65,Technical,Senior,Knowledge Test,Yes,No,General

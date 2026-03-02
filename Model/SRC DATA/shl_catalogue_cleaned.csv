@@ -1,0 +1,92 @@
+Assessment,Role,Skills,Difficulty,Duration,Category,Level,Test_Type,Remote_Testing,Adaptive,Industry
+verify interactive,graduate,"problem,solving,reasoning,cognitive",2,36,cognitive,entry,cognitive test,1,1,general
+graduate ability test,graduate,"aptitude,communication,reasoning",1,30,cognitive,entry,cognitive test,1,1,general
+graduate numerical test,graduate,"numerical,analysis,quantitative",2,35,cognitive,entry,cognitive test,1,1,general
+graduate logical test,graduate,"logical,thinking,problem,solving",2,30,cognitive,entry,cognitive test,1,1,general
+graduate communication test,graduate,"communication,verbal,english",1,25,behavioral,entry,knowledge test,1,0,general
+python coding assessment,software engineer,"python,coding,algorithms,data,structures",3,60,technical,mid,coding test,1,0,it
+java coding assessment,software engineer,"java,oop,programming,spring",2,60,technical,mid,coding test,1,0,it
+c++ coding test,software engineer,"c++,algorithms,problem,solving",3,65,technical,mid,coding test,1,0,it
+frontend developer test,software engineer,"html,css,javascript,react",2,55,technical,mid,coding test,1,0,it
+backend developer test,software engineer,"python,apis,databases,backend",3,75,technical,mid,coding test,1,0,it
+full stack assessment,software engineer,"frontend,backend,database,api",3,90,technical,mid,coding test,1,0,it
+devops assessment,devops engineer,"ci,cd,docker,kubernetes,automation",3,70,technical,mid,knowledge test,1,0,it
+cloud engineering test,cloud engineer,"aws,azure,cloud,infrastructure",3,70,technical,mid,knowledge test,1,0,it
+system design test,software engineer,"system,design,architecture,scalability",3,80,technical,senior,simulation,1,0,it
+software debugging test,software engineer,"debugging,troubleshooting,coding",2,50,technical,mid,coding test,1,0,it
+sql assessment,data analyst,"sql,database,query,data,analysis",1,40,technical,entry,knowledge test,1,0,it
+excel analytics test,data analyst,"excel,analytics,reporting,data",1,30,technical,entry,knowledge test,1,0,it
+data analysis test,data analyst,"statistics,analytics,visualization",2,45,technical,mid,knowledge test,1,0,it
+numerical reasoning test,data analyst,"numbers,analytics,quantitative,reasoning",2,35,cognitive,entry,cognitive test,1,1,general
+data visualization test,data analyst,"powerbi,tableau,visualization",2,45,technical,mid,knowledge test,1,0,it
+business intelligence test,data analyst,"bi,reporting,dashboards,sql",2,50,technical,mid,knowledge test,1,0,it
+data cleaning assessment,data analyst,"data,cleaning,pandas,python",2,40,technical,mid,coding test,1,0,it
+statistics assessment,data scientist,"statistics,probability,mathematics",3,60,technical,mid,knowledge test,1,0,it
+machine learning test,data scientist,"ml,algorithms,regression,classification",3,80,technical,senior,coding test,1,0,it
+deep learning assessment,data scientist,"neural,networks,deep,learning",3,90,technical,senior,coding test,1,0,it
+nlp assessment,data scientist,"nlp,text,processing,language,models",3,85,technical,senior,coding test,1,0,it
+ai engineering test,data scientist,"python,ml,ai,deployment",3,80,technical,senior,simulation,1,0,it
+data science assessment,data scientist,"python,ml,statistics,analytics",3,75,technical,mid,coding test,1,0,it
+model evaluation test,data scientist,"model,validation,metrics,evaluation",2,45,technical,mid,knowledge test,1,0,it
+feature engineering test,data scientist,"feature,engineering,data,processing",2,50,technical,mid,coding test,1,0,it
+cybersecurity assessment,security engineer,"security,networking,ethical,hacking",3,65,technical,mid,knowledge test,1,0,it
+network security test,security engineer,"network,security,firewall,risk",2,50,technical,mid,knowledge test,1,0,it
+penetration testing assessment,security engineer,"pen,testing,vulnerability,security",3,75,technical,senior,simulation,1,0,it
+ethical hacking test,security engineer,"ethical,hacking,cybersecurity,tools",3,70,technical,mid,knowledge test,1,0,it
+security analysis test,security engineer,"threat,analysis,risk,management",2,55,technical,mid,knowledge test,1,0,it
+leadership simulation,manager,"leadership,decision,making,communication",2,45,behavioral,senior,simulation,1,1,management
+management judgment test,manager,"leadership,strategy,business,decision",3,50,behavioral,senior,simulation,1,1,management
+project management test,project manager,"planning,risk,agile,scrum",2,60,management,mid,knowledge test,1,0,management
+agile scrum assessment,project manager,"agile,scrum,collaboration",2,40,management,mid,knowledge test,1,0,management
+team management test,manager,"team,leadership,motivation",2,45,behavioral,senior,simulation,1,1,management
+strategic thinking test,manager,"strategy,planning,vision,leadership",3,60,behavioral,senior,simulation,1,1,management
+executive leadership assessment,executive,"strategic,leadership,vision",3,75,leadership,leadership,simulation,1,1,management
+communication skills test,hr,"communication,english,verbal,skills",1,30,behavioral,entry,knowledge test,1,0,hr
+hr interview simulation,hr,"interview,evaluation,communication",2,35,behavioral,mid,simulation,1,1,hr
+talent acquisition test,hr,"recruitment,hiring,decision,making",2,40,behavioral,mid,knowledge test,1,0,hr
+employee engagement test,hr,"people,management,motivation,hr",2,45,behavioral,mid,simulation,1,1,hr
+customer service simulation,support executive,"customer,handling,communication,problem,solving",2,35,behavioral,entry,simulation,1,1,support
+technical support test,support engineer,"troubleshooting,networking,systems",2,45,technical,mid,knowledge test,1,0,it
+helpdesk support assessment,support engineer,"support,ticket,resolution,it",1,30,technical,entry,knowledge test,1,0,it
+customer interaction test,support executive,"communication,customer,experience",1,25,behavioral,entry,simulation,1,1,support
+sales assessment,sales executive,"sales,negotiation,communication,persuasion",2,40,behavioral,mid,simulation,1,1,sales
+retail sales simulation,sales executive,"customer,sales,interaction",2,35,behavioral,entry,simulation,1,1,sales
+b2b sales assessment,sales executive,"business,sales,strategy,negotiation",3,55,behavioral,senior,simulation,1,1,sales
+marketing analytics test,marketing analyst,"marketing,analytics,data,campaigns",2,45,technical,mid,knowledge test,1,0,marketing
+digital marketing assessment,marketing analyst,"seo,sem,analytics,marketing",2,50,technical,mid,knowledge test,1,0,marketing
+content marketing test,marketing analyst,"content,strategy,creativity,writing",1,30,behavioral,entry,knowledge test,1,0,marketing
+financial reasoning test,finance analyst,"finance,numbers,accounting,analysis",2,40,cognitive,mid,cognitive test,1,1,finance
+investment analysis test,finance analyst,"finance,investment,risk,analysis",3,60,technical,senior,knowledge test,1,0,finance
+accounting skills test,finance analyst,"accounting,financial,reporting",2,45,technical,mid,knowledge test,1,0,finance
+risk management assessment,finance analyst,"risk,compliance,finance,analysis",2,50,technical,mid,knowledge test,1,0,finance
+personality questionnaire,any,"behavior,personality,workplace,traits",1,25,personality,all,questionnaire,1,1,general
+situational judgment test,any,"decision,making,workplace,scenarios",2,35,behavioral,all,simulation,1,1,general
+logical reasoning test,any,"aptitude,problem,solving,logical,thinking",2,40,cognitive,all,cognitive test,1,1,general
+inductive reasoning test,any,"pattern,recognition,analytical,thinking",2,30,cognitive,all,cognitive test,1,1,general
+deductive reasoning test,any,"logical,decision,making,analysis",2,30,cognitive,all,cognitive test,1,1,general
+critical thinking test,any,"critical,thinking,analysis,evaluation",2,35,cognitive,all,cognitive test,1,1,general
+problem solving simulation,any,"problem,solving,decision,analysis",2,40,behavioral,all,simulation,1,1,general
+innovation creativity test,any,"creative,thinking,innovation,problem,solving",1,30,behavioral,all,knowledge test,1,0,general
+digital literacy test,any,"computer,basics,internet,tools,software",1,20,technical,entry,knowledge test,1,0,general
+remote work simulation,any,"time,management,communication,self,discipline",1,25,behavioral,all,simulation,1,1,general
+presentation skills assessment,manager,"presentation,communication,leadership",2,35,behavioral,senior,simulation,1,1,management
+english comprehension test,any,"reading,writing,grammar,understanding",1,25,cognitive,all,cognitive test,1,1,general
+workplace ethics test,any,"ethics,integrity,professional,behavior",1,20,personality,all,questionnaire,1,1,general
+collaboration assessment,any,"teamwork,collaboration,communication",1,25,behavioral,all,simulation,1,1,general
+adaptability test,any,"adaptability,change,management,learning",1,20,behavioral,all,knowledge test,1,0,general
+time management assessment,any,"time,planning,productivity,organization",1,25,behavioral,all,knowledge test,1,0,general
+decision making test,any,"decision,analysis,critical,thinking",2,35,cognitive,all,cognitive test,1,1,general
+analytical reasoning test,data analyst,"analytics,logic,data,interpretation",2,40,cognitive,entry,cognitive test,1,1,it
+business analyst test,business analyst,"requirement,analysis,stakeholder,sql",2,50,technical,mid,knowledge test,1,0,it
+process improvement assessment,business analyst,"process,optimization,analysis",2,45,management,mid,knowledge test,1,0,business
+product management test,product manager,"product,strategy,user,analysis",3,70,management,senior,simulation,1,1,business
+ux thinking assessment,product manager,"ux,design,user,research",2,50,technical,mid,knowledge test,1,0,it
+innovation strategy test,executive,"innovation,strategy,leadership,vision",3,75,leadership,leadership,simulation,1,1,management
+organizational leadership test,executive,"leadership,organizational,behavior",3,70,leadership,leadership,simulation,1,1,management
+global leadership assessment,executive,"global,strategy,decision,leadership",3,80,leadership,leadership,simulation,1,1,management
+future skills assessment,graduate,"learning,agility,digital,skills",1,30,behavioral,entry,knowledge test,1,0,general
+career readiness test,graduate,"professional,skills,workplace,readiness",1,25,behavioral,entry,knowledge test,1,0,general
+entry level aptitude test,graduate,"aptitude,basic,reasoning,communication",1,30,cognitive,entry,cognitive test,1,1,general
+young professional assessment,professional,"professional,skills,communication,analysis",2,45,behavioral,mid,simulation,1,1,general
+professional hiring simulation,professional,"domain,knowledge,problem,solving",2,50,behavioral,mid,simulation,1,1,general
+advanced professional assessment,professional,"advanced,domain,expertise,analysis",3,65,technical,senior,knowledge test,1,0,general
